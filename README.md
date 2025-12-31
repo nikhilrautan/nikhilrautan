@@ -13,30 +13,13 @@
 - 💡 Interested in **Backend, Full Stack & Problem Solving**
 
 ---
-
 ## 🛠️ Tech Stack
-**Languages**
-- C++
-- HTML
-- CSS
-- JavaScript (learning)
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Linux (basic)
-
+**Languages:** C++, HTML, CSS, JavaScript (learning)  
+**Tools:** Git & GitHub, VS Code, Linux (basic)
 ---
-
-## 📌 Projects
-🔹 **DSA-CPP**
-- Solved array, stack, recursion problems
-- Clean folder-wise structure
-
-🔹 **Web-Dev**
-- HTML & CSS layouts
-- Practice projects & components
-
+## 🚀 Projects
+🔹 **DSA-CPP** – Solved 50+ DSA problems (arrays, stacks, recursion) in C++  
+🔹 **Web-Dev** – HTML & CSS layouts, practice components & mini-projects  
 ➡️ More projects coming soon...
 
 ---
