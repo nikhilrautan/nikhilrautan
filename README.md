@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Nikhil Rautan
 
-<!--
-**nikhilrautan/nikhilrautan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year CSE Student  
+💻 Aspiring Software Developer  
+🚀 Learning DSA + Full Stack Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌱 Currently learning **DSA in C++** and **Web Development**
+- 🔭 Working on **daily coding & web projects**
+- 🎯 Goal: Crack **software developer role**
+- 💡 Interested in **Backend, Full Stack & Problem Solving**
+
+---
+
+## 🛠️ Tech Stack
+**Languages**
+- C++
+- HTML
+- CSS
+- JavaScript (learning)
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Linux (basic)
+
+---
+
+## 📌 Projects
+🔹 **DSA-CPP**
+- Solved array, stack, recursion problems
+- Clean folder-wise structure
+
+🔹 **Web-Dev**
+- HTML & CSS layouts
+- Practice projects & components
+
+➡️ More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilrautan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrautan&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: nikhilrautan1@gmail.com
+- 💼 LinkedIn: (add later)
+- 🧑‍💻 GitHub: https://github.com/nikhilrautan
+
