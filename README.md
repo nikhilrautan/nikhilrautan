@@ -1,8 +1,9 @@
 # 💫 About Me
 CSE student | Learning DSA in C++ and building responsive web projects with HTML & CSS | Aspiring Software Developer
 
-### 👀 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=nikhilrautan&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👀 Profile Visits
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilrautan&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
@@ -25,8 +26,11 @@ CSE student | Learning DSA in C++ and building responsive web projects with HTML
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilrautan&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=nikhilrautan&theme=dark)
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilrautan&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilrautan&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrautan&layout=compact&theme=dark)
 
 ---
