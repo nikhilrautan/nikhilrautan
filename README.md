@@ -1,44 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nikhil Rautan</h1>
-<h3 align="center">Aspiring Software Developer | DSA in C++ | Web Development</h3>
+# 💫 About Me:
+CSE student | Learning DSA in C++ and building responsive web projects with HTML & CSS | Aspiring Software Developer<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilrautan&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikhil Rautan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nikhilrautan07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilrautan1@gamil.com) 
 
-### 🚀 About Me
-- 🎓 CSE 3rd Year Student  
-- 💻 Practicing **DSA in C++**
-- 🌐 Building projects with **HTML, CSS & JavaScript**
-- 🔥 Focused on consistency & real-world learning
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nikhilrautan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nikhilrautan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrautan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 🛠 Tech Stack
-**C++ • HTML • CSS • JavaScript • Git & GitHub**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nikhilrautan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nikhilrautan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📂 Projects
-- **Portfolio Website** – HTML & CSS  
-- **Web Dev Practice** – Layouts & components  
-- **DSA in C++** – Arrays, recursion, stacks, searching & sorting  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilrautan&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilrautan&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 🤝 Connect
-📧 Email:nikhilrautan1@gmail.com 
-💼 LinkedIn | 🌐 Portfolio *(Coming soon)*
-
----
-
-⭐ *Consistency beats talent.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
