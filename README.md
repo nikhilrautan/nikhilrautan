@@ -5,7 +5,8 @@ CSE student | Learning DSA in C++ and building responsive web projects with HTML
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilrautan&label=Profile%20Views&color=blue&style=flat)
 
----
+--
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-rautan)
