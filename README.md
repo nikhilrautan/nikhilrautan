@@ -1,5 +1,5 @@
 # 💫 About Me
-CSE student | Learning DSA in C++ and building responsive web projects with HTML & CSS | Aspiring Software Developer
+CSE student | Learning DSA in C++ and building responsive web projects with HTML & CSS | Aspiring Software Developer 
 
 ## 👀 Profile Visits
 
