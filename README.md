@@ -1,16 +1,9 @@
 
-README.md
-
-Page
-1
-/
-1
-100%
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>Nikhil Rautan</strong>
 </h1>
 
 <h3>Nikhil Rautan | DSA • JavaScript • React</h3>
@@ -19,8 +12,7 @@ Page
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+ Exploring the world of Data Structures & Algorithms in C++ by day, shipping web experiences by night. I'm on a mission to write code that's not just functional — but fast, elegant, and built to last.
   </p>
 
   <p>
