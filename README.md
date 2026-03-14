@@ -14,7 +14,7 @@
   <p>
  Exploring the world of Data Structures & Algorithms in C++ by day, shipping web experiences by night. I'm on a mission to write code that's not just functional — but fast, elegant, and built to last.
   </p>
-
+  
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:nikhilrautan1@gmail.com"><img src="https://img.shields.io/badge/📧_nikhilrautan1@gmail.com-1e1e2e?style=for-the-badge" /></a>
