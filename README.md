@@ -6,6 +6,7 @@
   Hi, I'm <strong>Nikhil Rautan</strong>
 </h1>
 
+
 <h3>Nikhil Rautan | DSA • JavaScript • React</h3>
 
 <div align="left">
