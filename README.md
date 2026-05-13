@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 
-
 <h3>🌐 Socials</h3>
   
 <p align="left">
