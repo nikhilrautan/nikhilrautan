@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hii, I'm <strong>Nikhil Rautan</strong>
 </h1>
-<h3>Nikhil Rautan | DSA • JavaScript • React</h3>
+<h3>Nikhil Rautan | DSA • JavaScript • React • NodeJS • ExpressJS • MongoDB • GenAI </h3>
 
 
 <div align="left">
