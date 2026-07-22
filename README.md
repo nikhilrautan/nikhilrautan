@@ -33,7 +33,9 @@
 
   <a href="https://linkedin.com/in/nikhil-rautan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+  <a href="https://leetcode.com/u/nikhil_rautan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=nikhilrautan&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
