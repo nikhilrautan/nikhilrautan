@@ -78,7 +78,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <br/>
-<img src="https://streak-stats.demolab.com?user=nikhilrautan&theme=dark&hide_border=true&v=1" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=nikhilrautan&theme=dark&hide_border=true" />
 </div>
 ---
  
