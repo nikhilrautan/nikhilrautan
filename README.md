@@ -73,7 +73,6 @@
     <img src="https://skillicons.dev/icons?i=postman" />
 </td>
 </tr>
-  
 </table>
 </p>
 ## 📊 GitHub Stats
