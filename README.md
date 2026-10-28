@@ -6,7 +6,6 @@
 <h3>Nikhil Rautan | DSA • JavaScript • ReactJS • NodeJS • ExpressJS • MongoDB • GenAI </h3>
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-  
   <p>
  Exploring the world of Data Structures & Algorithms in C++ by day, shipping web experiences by night. I'm on a mission to write code that's not just functional — but fast, elegant, and built to last.
   </p>
